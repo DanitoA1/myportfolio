@@ -204,6 +204,27 @@ export default {
           ],
         },
         {
+          imageUrl: "/Static/Images/blogtemplate.png",
+          mainTitle: "BlogTemplate",
+          tags: ["Vue.Js", "Firebase", "Xd", "Wordpress"],
+          teamMates: [],
+          description:
+            "A simple blog template built as a wordpress theme, for an existing blog",
+          externalLinks: [
+            {
+              url:
+                "https://github.com/DanitoA1/blog-template",
+              icon: "/Static/Icons/github-logo.svg",
+              name: "Github",
+            },
+            {
+              url: "https://blog-template44.web.app/",
+              icon: "/Static/Icons/monitor.svg",
+              name: "Demo",
+            },
+          ],
+        },
+        {
           imageUrl: "/Static/Images/valuehandlers.png",
           mainTitle: "ValueHandlers",
           tags: ["Vue.js", "Firebase", "Adobe XD"],
